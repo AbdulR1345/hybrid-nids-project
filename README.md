@@ -1,7 +1,7 @@
 # Intelligent Hybrid Network Intrusion Detection System
 
-**Final Year Project – Abdul**  
-**Guide: [Mentor Name]**  
+**Final Year Project – Abdul & kabil raj**  
+**Guide: Dr.S.Usha**  
 **Department of Computer Science and Engineering**
 
 ## Project Overview
@@ -41,5 +41,6 @@ Enhanced hybrid NIDS using LSTM for anomaly detection, adaptive KNN for seen/uns
 
 
 **Note**: Full raw datasets and trained models are not included (too large). Use sample CSV for demo. Contact for full data.
+
 
 Made in Trichy , Tamil Nadu – 2026
