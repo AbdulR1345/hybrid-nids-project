@@ -1,0 +1,12 @@
+# Ignore large CIC-IDS files and models
+data/raw/*
+data/processed/*
+models/*
+results/*
+*.csv
+*.pcap
+*.h5
+*.pkl
+__pycache__/
+*.pyc
+*.log

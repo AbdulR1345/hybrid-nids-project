@@ -1,0 +1,20 @@
+# Core data & ML
+pandas>=1.5.0
+numpy>=1.23.0
+scikit-learn>=1.2.0
+tensorflow>=2.10.0
+joblib>=1.2.0
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.12.0
+plotly>=5.10.0
+
+# GUI & web
+streamlit>=1.20.0
+
+# Live packet capture (optional but needed for live tab)
+scapy>=2.4.5
+
+# PDF report export
+reportlab>=3.6.0
