@@ -41,6 +41,8 @@ Enhanced hybrid NIDS using LSTM for anomaly detection, adaptive KNN for seen/uns
 
 
 **Note**: Full raw datasets and trained models are not included (too large). Use sample CSV for demo. Contact for full data.
-
+Email:rahamanrahi13@gmail.com
+Phone:9629690594
 
 Made in Trichy , Tamil Nadu – 2026
+
